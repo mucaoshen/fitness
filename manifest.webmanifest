@@ -1,0 +1,32 @@
+{
+  "name": "薄肌计划 · 训练追踪",
+  "short_name": "训练追踪",
+  "description": "哑铃薄肌训练计划：每日动作、组数打卡、组间休息倒计时、体重腰围记录",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "id": "bojii-fitness-tracker",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111318",
+  "theme_color": "#111318",
+  "categories": ["health", "fitness"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
